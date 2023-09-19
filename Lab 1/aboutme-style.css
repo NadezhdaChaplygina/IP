@@ -1,0 +1,32 @@
+body
+{
+	font-family: Comic Sans MS;
+	font-size: 14pt;
+	background-image: url("images/back.jpg");
+	background-attachment: fixed;
+}
+h1
+{
+	font-size: 40pt;
+	color: #FF33FF;
+}
+
+h2
+{
+	color: #6200CC;
+}
+
+p, ol, ul
+{
+	color: #ffffff;
+}
+
+strong
+{
+	color: red;
+}
+
+a
+{
+	color: red;
+}
